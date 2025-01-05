@@ -101,6 +101,11 @@ _TUYA_KNOWN_VENDORS = {
         "brand": "AlecoAir",
         "client_id": "pvufcdrftnfkt4rqkxs5",
         "secret": "A_48vafqcmrfx4mvjrph4j4ayfe9hctnkd_jmehruant8ag7nscxn8u47u9yf8h48e7",
+    },
+    "feitelectric": {
+        "brand": "Feit Electric",
+        "client_id": "gvjjukdtcqnf5n8h4cxg",
+        "secret": "A_jqqutghndsapx3hrdus85qp85jedre7c_hejvuy88j8h3nvm5j7kxe4gxk9pnuyhu",
     }
 }
 
