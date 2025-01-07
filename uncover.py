@@ -107,6 +107,11 @@ _TUYA_KNOWN_VENDORS = {
        "client_id": "ajc33deua7sey8gkg8st",
        "secret": "A_995k5m8tpah4snp7xu59mcvmfhkhv7mk_kts7cj7mrxgjv7nqcjp9wata3t7ehwya",
     },
+    "settiplus": {
+       "brand": "Setti+",
+       "client_id": "yueyrevdan43d3ce4sg5",
+       "secret": "A_va9549r5kntjtrengcfu5nfjx79n4f5v_r9997a3f37373fuvcjj5ugxaphpeust4",
+    },
 }
 
 _LOGGER = logging.getLogger(__name__)
