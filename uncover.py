@@ -107,6 +107,11 @@ _TUYA_KNOWN_VENDORS = {
        "client_id": "ajc33deua7sey8gkg8st",
        "secret": "A_995k5m8tpah4snp7xu59mcvmfhkhv7mk_kts7cj7mrxgjv7nqcjp9wata3t7ehwya",
     },
+    "klarstein": {
+       "brand": "Klarstein",
+       "client_id": "vgydwfc7f8q7d84jfgq7",
+       "secret": "com.chaltec.klarsteinrn_0E:77:98:11:A8:AE:6F:54:9E:C9:23:14:1A:FD:99:87:78:B2:AB:2E:BB:01:B8:78:EE:DC:5B:34:39:11:8A:AC_8xwqggv7t7rj3khthuefsa4dmynvfgcs_7mg3fddqwhnh77qynswxgnv5gta3pk49",
+    },
 }
 
 _LOGGER = logging.getLogger(__name__)
