@@ -112,6 +112,11 @@ _TUYA_KNOWN_VENDORS = {
        "client_id": "dhs3xggvwehvc5tj9xqp",
        "secret": "A_wwwrnvy7gayy9dvp5nuahyd5d3j4kyxp_7vgwxdy589jtwwee7rugayxrderkekww",
     },
+    "avatto": {
+       "brand": "Avatto",
+       "client_id": "f5phkam3pg9mpj8ckfkk",
+       "secret": "A_jxptcchrsqv5sn9kud85nf85r7d38veg_cyqtkjnw3s7na7xps8cwd9eq9797f7wj",
+    },
 }
 
 _LOGGER = logging.getLogger(__name__)
