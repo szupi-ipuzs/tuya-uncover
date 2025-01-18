@@ -117,6 +117,11 @@ _TUYA_KNOWN_VENDORS = {
        "client_id": "pettfwyepwpwwhxy57gp",
        "secret": "A_73p8kvkhsted5fxvx8pfudk5hwtmnjr3_yptwxx4t9rkmcppyagwpd43y77tnpw8s",
     },
+    "zamel": {
+       "brand": "NaviHome",
+       "client_id": "qa9rygadx9fve788gq5d",
+       "secret": "A_tshsd7x7te5e8jdgs38yauet9ajec3mx_g5myfa4jeqqvnhu8m74tjrrfc9ynpj7h",
+    },
 }
 
 _LOGGER = logging.getLogger(__name__)
