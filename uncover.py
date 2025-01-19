@@ -122,6 +122,11 @@ _TUYA_KNOWN_VENDORS = {
        "client_id": "xpqw7hnghsyvt7y84qr3",
        "secret": "A_yf3skmg73upyytecsy5tjg58tdmh87t3_vgq3jywdfa8kqyr7eaq7cgm387e53ew9",
     },
+    "elegrp": {
+       "brand": "Elegrp Home",
+       "client_id": "ghp9n4vujp4x8qvpuaj9",
+       "secret": "A_9qqt7dgdfkde7tf5xkey94wxcj5eq8q7_9hpatj9pf4vdkdmk9serkeuvdvkujjv8",
+    },
 }
 
 _LOGGER = logging.getLogger(__name__)
