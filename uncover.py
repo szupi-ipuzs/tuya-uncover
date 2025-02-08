@@ -161,6 +161,11 @@ _TUYA_KNOWN_VENDORS = {
        "brand": "Atomi Smart",
        "client_id": "4upds48whre7hmjdkxdc",
        "secret": "A_k5nk85d8xf3mde4jjjney3s4un7e74a9_ecm3chpyv75nsvuyfk3vp4qd9avjffn7"
+    },
+    "eberg": {
+       "brand": "Eberg",
+       "client_id": "rhq9duxhyj94ydv8g9mt",
+       "secret": "A_kkqenkftfrg8gv7v39k4q3g9t5ga4au7_39gvuhdrey77ew573qghyengvm5m9ffm"
     }
 }
 
