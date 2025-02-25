@@ -196,6 +196,11 @@ _TUYA_KNOWN_VENDORS = {
        "brand": "Eurom Smart",
        "client_id": "jdkkasnmmsyfypwjkkxk",
        "secret": "A_wtsufmhy7syk7dmdwuadmjevtp59gwc7_qhqyqnw93arp33hc95twv45dwjxnwnhp"
+    },
+    "ecostrad": {
+       "brand": "Ecostrad Ecosystem",
+       "client_id": "4wr7dgt4vnv9893g3cap",
+       "secret": "A_tssccccax958kxn8rm87wwnuwmnhhjf7_spywnj9vmyafqkhsgfkpj4kjqep4ntgs"
     }
 }
 
