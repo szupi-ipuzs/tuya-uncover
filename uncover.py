@@ -191,6 +191,11 @@ _TUYA_KNOWN_VENDORS = {
        "brand": "Cecotec",
        "client_id": "gxrfvnd347yrueewmhvk",
        "secret": "A_tr9chggcv7kuwc4cxntamkcr4n3uwxns_5r33gm3ayhhydkp5msn8tk3kknnykhse"
+    },
+    "eurom": {
+       "brand": "Eurom Smart",
+       "client_id": "jdkkasnmmsyfypwjkkxk",
+       "secret": "A_wtsufmhy7syk7dmdwuadmjevtp59gwc7_qhqyqnw93arp33hc95twv45dwjxnwnhp"
     }
 }
 
