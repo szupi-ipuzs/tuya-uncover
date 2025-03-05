@@ -191,6 +191,11 @@ _TUYA_KNOWN_VENDORS = {
        "brand": "Cecotec",
        "client_id": "gxrfvnd347yrueewmhvk",
        "secret": "A_tr9chggcv7kuwc4cxntamkcr4n3uwxns_5r33gm3ayhhydkp5msn8tk3kknnykhse"
+    },
+    "switchbot": {
+       "brand": "Switchbot",
+       "client_id": "dugxued8gn5ksyu3tk44",
+       "secret": "29:9B:F6:7A:85:CC:45:D8:8D:82:FD:DB:C4:5E:B8:74:FA:3E:96:36:4F:BB:C3:D2:84:95:31:FB:B3:85:5D:18_tpft8pwggeuqureayyhcf3h8vtprrp7y_qjtqq5pnrhupw5fwyauwqau4mdqsnk85",
     }
 }
 
